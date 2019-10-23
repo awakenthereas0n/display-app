@@ -1,6 +1,6 @@
 Display-App
 
-Automated mouse moves for keeping a managed computer awake.
+Automated mouse moves for keeping a managed macOS computer awake. 
 
 1. Copy Display.app into /Applications/Utilities
 2. Copy DisplayLaunch.app into /Applications
